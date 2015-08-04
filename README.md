@@ -2,7 +2,7 @@
 WangLandau algorithm for classical Potts model on square lattices implemented in C++.
 
 # Requirement
-- Boost Library
+- Boost.Program_Options
 
 # Build
 Type `./make.sh`.
