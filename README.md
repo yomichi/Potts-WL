@@ -1,3 +1,5 @@
+*This repositry has moved into a new one, http://github.com/yomichi/SpinMonteCarlo*
+
 # Potts-WL
 WangLandau algorithm for classical Potts model on square lattices implemented in C++.
 
